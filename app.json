@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "MavelyEvaluation",
-    "slug": "MavelyEvaluation",
+    "name": "ExpoWithGQL",
+    "slug": "ExpoWithGQL",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
